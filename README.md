@@ -6,7 +6,7 @@
 
 ## 🔧 Skills 
 <a href="php.com"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://www.vectorlogo.zone/logos/w3_html5/html5-icon.svg" width="40" height="40"/></a>
+<a href="https://code.earthengine.google.com/"><img src="https://iconscout.com/free-icon/google-earth-2038782" width="40" height="40"/></a>
 <a href="java.com"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
 <a href="https://www.postgresql.org">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40">
