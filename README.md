@@ -20,8 +20,8 @@
   Data Spatial Visualization,
   Map Design
 
-## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/rinihusadiyah/"<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" /></a>
+## 📫 How to reach me
+<a href="https://www.linkedin.com/in/rinihusadiyah/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" /></a>
 <a href="https://mail.google.com/mail/u/rinihusadiyah@gmail.com/#inbox?compose=new"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
 <!--
