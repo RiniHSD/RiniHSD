@@ -10,9 +10,6 @@
 <a href="https://www.postgresql.org">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40">
 </a>
-<a href="https://css.com/">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40">
-</a>
 
 <h2>Other Skills</h2>
   Spatial Planning, 
