@@ -44,11 +44,11 @@ I possess a keen interest in:
 ## 🛠️ Technical Skills
 
 ### **GIS & Remote Sensing**
-![ArcGIS](https://img.shields.io/badge/ArcGIS-Desktop_&_Pro-blue?logo=esri)
-![QGIS](https://img.shields.io/badge/QGIS-GIS_Software-green?logo=qgis)
-![PostGIS](https://img.shields.io/badge/PostGIS-Spatial_Database-blueviolet?logo=postgresql)
-![ENVI](https://img.shields.io/badge/ENVI-Remote_Sensing-orange)
-![Agisoft](https://img.shields.io/badge/Agisoft-Photogrammetry-lightgrey)
+![ArcGIS](https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png)
+![QGIS](https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg)
+![PostGIS](https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png)
+![ENVI](https://www.chest.ac.uk/media/3324/envi2.png)
+![Agisoft](https://filessvn.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/08182401/agisoft_brand_logo.png)
 
 ### **Programming & Development**
 ![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
