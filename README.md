@@ -49,7 +49,7 @@ I possess a keen interest in:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" width="80"  alt="QGIS">
   <img src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png" width="80"  alt="PostGIS">
   <img src="https://www.chest.ac.uk/media/3324/envi2.png" width="80" alt="ENVI">
-  <img src="https://filessvn.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/08182401/agisoft_brand_logo.png" width="80" height="30" alt="Agisoft">
+  <img src="https://filessvn.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/08182401/agisoft_brand_logo.png" width="80" alt="Agisoft">
 </div>
 
 ### **Programming & Development**
@@ -63,9 +63,9 @@ I possess a keen interest in:
 
 ### **Database & Analysis**
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" width="50" height="30" alt="PostgreSQL">
-  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" height="30" alt="MySQL">
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" height="30" alt="Tableau">
+  <img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" width="50" alt="PostgreSQL">
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" alt="MySQL">
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" alt="Tableau">
 </div>
 
 ---
