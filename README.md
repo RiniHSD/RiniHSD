@@ -3,13 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rinihusadiyah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:rinihusadiyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/RiniHSD">
-    <img src="https://img.shields.io/github/followers/RiniHSD?label=Follow&style=social" alt="GitHub">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" />
   </a>
 </p>
 
@@ -57,16 +51,16 @@ I possess a keen interest in:
 ![Agisoft](https://img.shields.io/badge/Agisoft-Photogrammetry-lightgrey)
 
 ### **Programming & Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-Web_&_Mobile-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-Programming-orange?logo=java)
-![PHP](https://img.shields.io/badge/PHP-Backend_Development-purple?logo=php)
-![HTML/CSS](https://img.shields.io/badge/HTML_&_CSS-Frontend_Development-orange?logo=html5)
+![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000)
+![HTML/CSS](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 
 ### **Database & Analysis**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database_Management-blue?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-Relational_DB-yellow?logo=mysql)
-![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-orange?logo=tableau)
+![PostgreSQL](https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000)
+![MySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
+![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)
 
 ---
 
@@ -106,10 +100,10 @@ Developed a patented mobile application for village boundary delineation with:
 ## 📂 Portfolio Highlights
 
 ### **GIS Development Projects**
-[![GitHub Repo](https://img.shields.io/badge/GitHub-GIS_Projects-black?logo=github)](https://github.com/RiniHSD)
+[![GitHub Repo](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)](https://github.com/RiniHSD)
 
 ### **Spatial Analysis Portfolio**
-[![GIS Portfolio](https://project-gis-rini.vercel.app/)](link_ke_portofolio_analis)
+[![GIS Portfolio](https://img.icons8.com/?size=100&id=Dk6sM5E6gtGC&format=png&color=000000)](https://project-gis-rini.vercel.app/)
 
 ---
 
