@@ -44,23 +44,23 @@ I possess a keen interest in:
 ## 🛠️ Technical Skills
 
 ### **GIS & Remote Sensing**
-![ArcGIS](https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png)
-![QGIS](https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg)
-![PostGIS](https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png)
-![ENVI](https://www.chest.ac.uk/media/3324/envi2.png)
-![Agisoft](https://filessvn.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/08182401/agisoft_brand_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="80" height="30" alt="ArcGIS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" width="80" height="30" alt="QGIS">
+<img src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png" width="80" height="30" alt="PostGIS">
+<img src="https://www.chest.ac.uk/media/3324/envi2.png" width="80" height="30" alt="ENVI">
+<img src="https://filessvn.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/08182401/agisoft_brand_logo.png" width="80" height="30" alt="Agisoft">
 
 ### **Programming & Development**
-![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000)
-![HTML/CSS](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="30" height="30" alt="JavaScript">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" height="30" alt="Python">
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="30" height="30" alt="Java">
+<img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="30" height="30" alt="PHP">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="30" height="30" alt="HTML/CSS">
 
 ### **Database & Analysis**
-![PostgreSQL](https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000)
-![MySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)
-![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)
+<img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" width="30" height="30" alt="PostgreSQL">
+<img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="30" height="30" alt="MySQL">
+<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="30" height="30" alt="Tableau">
 
 ---
 
@@ -100,10 +100,14 @@ Developed a patented mobile application for village boundary delineation with:
 ## 📂 Portfolio Highlights
 
 ### **GIS Development Projects**
-[![GitHub Repo](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)](https://github.com/RiniHSD)
+<a href="https://github.com/RiniHSD">
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="30" height="30" alt="GitHub">
+</a> [GitHub Projects](https://github.com/RiniHSD)
 
 ### **Spatial Analysis Portfolio**
-[![GIS Portfolio](https://img.icons8.com/?size=100&id=Dk6sM5E6gtGC&format=png&color=000000)](https://project-gis-rini.vercel.app/)
+<a href="https://project-gis-rini.vercel.app/">
+  <img src="https://img.icons8.com/?size=100&id=Dk6sM5E6gtGC&format=png&color=000000" width="30" height="30" alt="Portfolio">
+</a> [Spatial Analysis Portfolio](https://project-gis-rini.vercel.app/)
 
 ---
 
