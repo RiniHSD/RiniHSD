@@ -109,7 +109,7 @@ Developed a patented mobile application for village boundary delineation with:
 [![GitHub Repo](https://img.shields.io/badge/GitHub-GIS_Projects-black?logo=github)](https://github.com/RiniHSD)
 
 ### **Spatial Analysis Portfolio**
-[![GIS Portfolio](https://img.shields.io/badge/Portfolio-Spatial_Analysis-brightgreen)](link_ke_portofolio_analis)
+[![GIS Portfolio](https://project-gis-rini.vercel.app/)](link_ke_portofolio_analis)
 
 ---
 
