@@ -31,7 +31,11 @@ I possess a keen interest in:
 
 ### **Lecturer Assistant for Computer Programming** at Universitas Gadjah Mada  
 *(Aug 2024 – Dec 2024)*  
-- Assisted 62 GIS students in learning programming languages (VB.Net, C#, Python, Java, HTML/CSS, JavaScript, PHP)
+- Assisted 62 GIS UGM students' batch 2024 in learning programming languages (VB.Net, C#, Python, Java, HTML/CSS, JavaScript, PHP)
+
+### **Lecturer Assistant for Advanced Mobile Geospatial Programming** at Universitas Gadjah Mada  
+*(Aug 2024 – Dec 2024)*  
+- Assisted 61 GIS UGM students' batch 2022 in developing mobile apps using React Native and Ionic Framework
 
 ### **Detailed Spatial Plan Development Team** at Ministry of Agrarian Affairs and Spatial Planning/ National Land Agency (ATR/BPN)  
 *(Feb 2024 – Jun 2024)*  
