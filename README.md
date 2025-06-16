@@ -45,7 +45,7 @@ I possess a keen interest in:
 
 ### **GIS & Remote Sensing**
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" width="80"  alt="ArcGIS">
+  <img src="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2024/11/21/Untitled-1573042901.png" width="80"  alt="ArcGIS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" width="80"  alt="QGIS">
   <img src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png" width="80"  alt="PostGIS">
   <img src="https://www.chest.ac.uk/media/3324/envi2.png" width="80" alt="ENVI">
@@ -69,7 +69,7 @@ I possess a keen interest in:
 </div>
 
 ---
-f
+
 ## 🚀 Projects & Fieldwork
 
 ### **GIS Fieldwork Projects**
