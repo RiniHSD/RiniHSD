@@ -54,6 +54,7 @@ I possess a keen interest in:
   <img src="https://www.osgeo.org/wp-content/uploads/postgis-logo-1.png" width="80"  alt="PostGIS">
   <img src="https://www.chest.ac.uk/media/3324/envi2.png" width="80" alt="ENVI">
   <img src="https://filessvn.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/08182401/agisoft_brand_logo.png" width="80" alt="Agisoft">
+  <img src="https://sanborn.com/wp-content/uploads/GoogleEarthEngine-1.png" width="80" alt="GEE">
 </div>
 
 ### **Programming & Development**
