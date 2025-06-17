@@ -21,29 +21,6 @@ I possess a keen interest in:
 
 ---
 
-## 💼 Professional Experience
-
-### **GIS Developer Intern** at PT Techno GIS Indonesia  
-*(Sep 2024 – Dec 2024)*  
-- Developed and patented a mobile mapping application for village boundary delineation using JavaScript
-- Integrated GNSS GPS geodetic tools to improve spatial boundary mapping accuracy
-- Designed spatial databases using PostgreSQL and PostGIS
-
-### **Lecturer Assistant for Computer Programming** at Universitas Gadjah Mada  
-*(Aug 2024 – Dec 2024)*  
-- Assisted 62 GIS UGM students' batch 2024 in learning programming languages (VB.Net, C#, Python, Java, HTML/CSS, JavaScript, PHP)
-
-### **Lecturer Assistant for Advanced Mobile Geospatial Programming** at Universitas Gadjah Mada  
-*(Aug 2024 – Dec 2024)*  
-- Assisted 61 GIS UGM students' batch 2022 in developing mobile apps using React Native and Ionic Framework
-
-### **Detailed Spatial Plan Development Team** at Ministry of Agrarian Affairs and Spatial Planning/ National Land Agency (ATR/BPN)  
-*(Feb 2024 – Jun 2024)*  
-- Revised base maps and thematic maps for spatial planning
-- Contributed to drafting the 2024-2044 RDTR planning document
-- Developed spatial structure plans using ArcGIS and QGIS
-
----
 
 ## 🛠️ Technical Skills
 
@@ -131,3 +108,5 @@ Developed a patented mobile application for village boundary delineation with:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiniHSD&label=Profile+Views&color=blueviolet" alt="Profile views">
 </p>
+
+<img src="https://raw.githubusercontent.com/RiniHSD/RiniHSD/output/snake.svg" alt="Snake animation" />
