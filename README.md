@@ -108,5 +108,3 @@ Developed a patented mobile application for village boundary delineation with:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiniHSD&label=Profile+Views&color=blueviolet" alt="Profile views">
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/RiniHSD/RiniHSD/main/snake.svg)
