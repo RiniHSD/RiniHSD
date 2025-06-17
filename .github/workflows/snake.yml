@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Jalankan setiap hari jam 00:00 UTC
+  workflow_dispatch:     # Memungkinkan Anda menjalankan secara manual
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RiniHSD  # Ganti dengan username GitHub Anda
+          output: snake.svg          # Nama file output
+
+      - name: Push to repository
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add snake.svg
+          git commit -m "Update snake animation"
+          git push
