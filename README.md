@@ -67,6 +67,10 @@ Developed a patented mobile application for village boundary delineation with:
 - GNSS GPS geodetic integration
 - JavaScript-based mapping interface
 - PostgreSQL/PostGIS spatial database
+<p><a href="https://github.com/PRESISI-APK/PRESISI">PRESISI</a></p>
+
+Developed a mobile application for the irrigation network in the Van Der Wijck Irrigation Channel
+<p><a href="https://github.com/RiniHSD/AIRIS">AIRIS</a></p>
 
 ---
 
