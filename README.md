@@ -87,7 +87,7 @@ Developed a patented mobile application for village boundary delineation with:
 
 ## 📂 Portfolio Highlights
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <div style="text-align: center;">
     <a href="https://github.com/RiniHSD">
       <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="50" height="50" alt="GitHub">
@@ -99,7 +99,7 @@ Developed a patented mobile application for village boundary delineation with:
     <a href="https://project-gis-rini.vercel.app/">
       <img src="https://img.icons8.com/?size=100&id=Dk6sM5E6gtGC&format=png&color=000000" width="50" height="50" alt="Portfolio">
     </a>
-    <div><a href="https://project-gis-rini.vercel.app/">Spatial Analysis Portfolio</a></div>
+    <div><a href="https://rini-husadiyah-portfolio.vercel.app/">Spatial Analysis Portfolio</a></div>
   </div>
 </div>
 
